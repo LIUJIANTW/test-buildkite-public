@@ -13,5 +13,5 @@ echo "who am i"
 whoami
 
 echo "ip address"
-ip a
+ifconfig
 
